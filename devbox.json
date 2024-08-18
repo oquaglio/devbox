@@ -2,7 +2,25 @@
   "$schema": "https://raw.githubusercontent.com/jetify-com/devbox/0.12.0/.schema/devbox.schema.json",
   "packages": [
     "vim@latest",
-    "git@latest"
+    "git@latest",
+    "jq@latest",
+    "btop@latest",
+    "neovim@latest",
+    "gum@latest",
+    "zsh-z@latest",
+    "eza@latest",
+    "nano@latest",
+    "bat@latest",
+    "fzf@latest",
+    "unzip@latest",
+    "neofetch@latest",
+    "tree@latest",
+    "ranger@latest",
+    "dust@latest",
+    "gdu@latest",
+    "ncdu@latest",
+    "curl@latest",
+    "awscli2@latest"
   ],
   "shell": {
     "init_hook": [
